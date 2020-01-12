@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my test app. 
+          This is my test app. Changing it up to push the changes.
         </p>
         <a
           className="App-link"
